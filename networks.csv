@@ -1,0 +1,6 @@
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+8C:88:2B:00:03:14, 2018-03-22 00:26:54, 2018-03-22 00:26:58,  9,  54, WPA2, CCMP TKIP,PSK, -78,        5,        0,   0.  0.  0.  0,   7, BILLING,
+6E:B0:CE:0B:49:5E, 2018-03-22 00:26:36, 2018-03-22 00:26:57,  9,  54, WPA2 WPA, CCMP TKIP,PSK, -34,       10,        0,   0.  0.  0.  0,  11, BILLING_EXT,
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+80:00:6E:2C:EC:7D, 2018-03-22 00:26:42, 2018-03-22 00:26:42, -55,        8, (not associated) ,a fast network
